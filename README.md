@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chosofr
+- 👀 I’m interested in game dev, animation, web development and liberation
+- 🌱 I’m currently learning java script ,python and c++
+- 💞️ I’m looking to collaborate on web devopment and databases
+- 📫 How to reach me 3548dowa2@gmail.com , +263 71 204 9554
